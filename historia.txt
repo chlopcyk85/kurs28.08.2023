@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 335ece43495ab359dce44bd8d09c56b40ee4c752 Marcin <chlopcyk85@gmail.com> 1692435507 +0200	commit (initial): tekst piosenki
+335ece43495ab359dce44bd8d09c56b40ee4c752 2b7e6a517abcb13718074f68870c1d626f8b789f Marcin <chlopcyk85@gmail.com> 1692602548 +0200	commit: text ulubionej piosenki
+2b7e6a517abcb13718074f68870c1d626f8b789f d7e92f1156ce22fce2e1da3495372bb78bf87515 Marcin <chlopcyk85@gmail.com> 1692602975 +0200	commit: przenosze zwrokte nr 1
+d7e92f1156ce22fce2e1da3495372bb78bf87515 b9ef6e2c4917f47e76da024b35c3d5ccd4775d96 Marcin <chlopcyk85@gmail.com> 1692603017 +0200	commit: przenosze zwrokte nr 2
+b9ef6e2c4917f47e76da024b35c3d5ccd4775d96 06fd75dd1ff4d7ebd27396f44c95792c264be3fc Marcin <chlopcyk85@gmail.com> 1692603065 +0200	commit: przenosze zwrokte nr 3
+06fd75dd1ff4d7ebd27396f44c95792c264be3fc 9e5ce7e6f5db65bacbc4e6e314cc508afbb86489 Marcin <chlopcyk85@gmail.com> 1692603132 +0200	commit: przenosze zwrokte nr 4
+9e5ce7e6f5db65bacbc4e6e314cc508afbb86489 ea96c0298906b63d2d3c86fe7087cf9de52fd790 Marcin <chlopcyk85@gmail.com> 1692603230 +0200	commit: robię porzadki z refrenem
+ea96c0298906b63d2d3c86fe7087cf9de52fd790 04ad5e9d9a5f4b3dd07e15c96758d2339dee14e5 Marcin <chlopcyk85@gmail.com> 1692603314 +0200	commit: dodaje referen
+04ad5e9d9a5f4b3dd07e15c96758d2339dee14e5 289cd5b9706b42cce9ef7037eae5d797ca68e5cb Marcin <chlopcyk85@gmail.com> 1692603369 +0200	commit: usuwam 1 linie z refrenu
+289cd5b9706b42cce9ef7037eae5d797ca68e5cb db34bce07d184c1bdd61884c2a651a51bdfde962 Marcin <chlopcyk85@gmail.com> 1692607040 +0200	commit: przywracam usunieta linie
+db34bce07d184c1bdd61884c2a651a51bdfde962 6f9a73f6a0cc34c43dfdcc149c20e17ab0a457b0 Marcin <chlopcyk85@gmail.com> 1692607242 +0200	commit: usuniete powtarzajace sie referny
